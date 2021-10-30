@@ -1,1 +1,0 @@
-- Please use "node NumberDivisible.js" command in cmd to run this file.
