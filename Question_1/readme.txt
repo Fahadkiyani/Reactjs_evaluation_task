@@ -1,0 +1,1 @@
+You only need to run "npm start" command to start this project.
